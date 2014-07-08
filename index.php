@@ -3,9 +3,6 @@
  * This is a code sample based on the prompt at http://www.gofundme.com/code-sample
  * Authored by Oren Robinson (baisong) at https://github.com/baisong/demojsautocomplete
  *
- * This sample uses 100% original code and only required external libraries, to
- * best illustrate original work.
- *
  * Usage:
  *   1. Rename the file to index.php
  *   2. Place the file on any server where PHP 5.2 or higher runs.
