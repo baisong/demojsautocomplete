@@ -1,7 +1,7 @@
 <?php
 /**
  * This is a code sample based on the prompt at http://www.gofundme.com/code-sample
- * Authored by Oren Robinson https://github.com/baisong
+ * Authored by Oren Robinson (baisong) at https://github.com/baisong/demojsautocomplete
  *
  * This sample uses 100% original code and only required external libraries, to
  * best illustrate original work.
