@@ -1,10 +1,7 @@
 <?php
 /**
  * This is a code sample based on the prompt at http://www.gofundme.com/code-sample
- * Authored by Oren Robinson https://github.com/baisong
- *
- * This sample uses 100% original code and only required external libraries, to
- * best illustrate original work.
+ * Authored by Oren Robinson (baisong) at https://github.com/baisong/demojsautocomplete
  *
  * Usage:
  *   1. Rename the file to index.php
@@ -12,8 +9,8 @@
  *   3. Access it in your browser to see the demo in action.
  *
  * Screenshots:
- *  - 
- *  - 
+ *  - https://raw.githubusercontent.com/baisong/demojsautocomplete/master/screenshot1.png
+ *  - https://raw.githubusercontent.com/baisong/demojsautocomplete/master/screenshot2.png
  */
 
 /**
