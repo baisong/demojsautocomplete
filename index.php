@@ -12,8 +12,8 @@
  *   3. Access it in your browser to see the demo in action.
  *
  * Screenshots:
- *  - 
- *  - 
+ *  - https://raw.githubusercontent.com/baisong/demojsautocomplete/master/screenshot1.png
+ *  - https://raw.githubusercontent.com/baisong/demojsautocomplete/master/screenshot2.png
  */
 
 /**
